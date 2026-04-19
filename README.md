@@ -209,7 +209,7 @@ END 5 200 450
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<rojan-hamdy>/<FlowChart-PTCourseProject>.git
    ```
 2. Open the project in **Visual Studio**
 3. Make sure all resource images (`.jpg` icons) are in the correct path defined in `UI_Info.h`
