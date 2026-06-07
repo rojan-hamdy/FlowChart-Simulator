@@ -6,6 +6,7 @@ A C++ object-oriented application that allows users to **design**, **simulate**,
 
 ## 📌 Table of Contents
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Main Classes](#main-classes)
@@ -24,6 +25,25 @@ This application is a **flowchart designer and simulator** built in C++ using Ob
 - Connect statements with directional arrows
 - Execute (simulate) the flowchart and view output
 - Save and load flowcharts from text files
+
+---
+
+## 🖼️ Screenshots
+
+### Design Mode
+Build your flowchart by dragging and dropping shapes onto the canvas using the toolbar icons.
+
+![Design Mode](screenshots/design_mode.png)
+
+### Simulation Mode
+Switch to simulation mode to validate and run your flowchart step by step.
+
+![Simulation Mode](screenshots/sim_mode.png)
+
+### Flowchart Validation
+The app checks your flowchart structure and logic, then confirms it is valid before running.
+
+![Valid Flowchart](screenshots/valid_flowchart.png)
 
 ---
 
